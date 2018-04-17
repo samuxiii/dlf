@@ -1,6 +1,6 @@
 # Deep Learning Nanodegree
 
-These are my own projects of the Udacity nanodegree so please don't copy them. It's better for your understanding and learning to do the things by your own.
+These are my own projects of Udacity nanodegree so please don't copy them. It's better for your understanding and learning to do the things by your own.
 
 ## Projects
 
